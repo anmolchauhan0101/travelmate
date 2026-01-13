@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "https://travelmate-iwo2.onrender.com";
 
 /* ================= AUTH ================= */
 export const loginUser = async (email, password) => {
