@@ -41,15 +41,21 @@ Mobile-friendly layout
 Frontend
 
 React
+
 React Router
+
 Tailwind CSS
+
 Hosted on Vercel
 
 Backend
 
 Node.js
+
 Express.js
+
 JWT Authentication
+
 Hosted on Render
 
 Database
@@ -59,7 +65,9 @@ MongoDB Atlas
 External APIs & Data Sources
 
 OpenStreetMap (Nominatim) — city search & geolocation
+
 Wikipedia (free access) — destination information
+
 Google Search (external links) — restaurants, hotels, transport
 
 ⚠️ Important Note About Data
@@ -69,7 +77,9 @@ This project intentionally uses free and open data sources.
 Because of this:
 
 Some smaller cities may have limited places-to-visit data
+
 Tourist attractions depend on public data availability
+
 This is expected behavior and not a bug
 
 Paid APIs (Google Places, TripAdvisor, Amadeus) can be integrated in future versions.
@@ -85,18 +95,25 @@ Backend: https://travelmate-iwo2.onrender.com
 1️⃣ Clone the repository
 
 git clone https://github.com/anmolchauhan0101/travelmate.git
+
 cd travelmate
 
 2️⃣ Frontend Setup
+
 cd client
+
 npm install
+
 npm start
 
 Frontend runs at: http://localhost:3000
 
 3️⃣ Backend Setup
+
 cd server
+
 npm install
+
 npm run dev
 
 Backend runs at: http://localhost:5000
@@ -104,12 +121,15 @@ Backend runs at: http://localhost:5000
 Create a .env file in server/:
 
 PORT=5000
+
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_secret_key
 
 📌 Project Status
 
 ✅ Core features completed
+
 🚧 Advanced data enrichment planned
 
 🔮 Future Enhancements
