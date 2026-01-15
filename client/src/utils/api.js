@@ -64,12 +64,12 @@ export const searchCities = async (query) => {
   const res = await fetch(`${API_URL}/api/places/search/${query}`);
   return res.json();
 };
+
 export const getPlacesToVisit = async (city) => {
-  const res = await fetch(
-    `http://localhost:5000/api/places/visit/${city}`
-  );
+  const res = await fetch(`${API_URL}/api/places/visit/${city}`);
   return res.json();
 };
+
 
 
 
