@@ -5,6 +5,7 @@ TravelMate is a full-stack MERN travel planning web application that helps users
 The project is designed as a scalable foundation for a future mobile app and advanced travel integrations.
 
 ✨ Features
+
 🔐 Authentication
 
 User registration & login
@@ -36,6 +37,7 @@ Built with Tailwind CSS
 Mobile-friendly layout
 
 🛠️ Tech Stack
+
 Frontend
 
 React
