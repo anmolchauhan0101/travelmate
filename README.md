@@ -84,30 +84,16 @@ Restaurants and transportation options use external Google Search links to provi
 
 ---
 
-# 🛠️ Tech Stack
-###Frontend
--React.js
--React Router
--Tailwind CSS
--JavaScript (ES6+)
--REST API integration
-###Backend
--Node.js
--Express.js
--JWT Authentication
--RESTful API architecture
--Middleware-based request handling
-###Database
--MongoDB
--MongoDB Atlas
-###External Data Sources
--OpenStreetMap / Nominatim — city and location search
--Wikipedia — destination information
--Google Search — restaurants, hotels, and transportation discovery
-###Deployment
--Vercel — Frontend
--Render — Backend
--MongoDB Atlas — Database
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React.js, React Router, Tailwind CSS, JavaScript (ES6+) |
+| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
+| **Database** | MongoDB, MongoDB Atlas, Mongoose |
+| **External Services** | OpenStreetMap / Nominatim, Wikipedia, Google Search |
+| **Deployment** | Vercel, Render, MongoDB Atlas |
+
 ---
 
 # 🏗️ System Architecture
