@@ -90,8 +90,8 @@ Restaurants and transportation options use external Google Search links to provi
 |----------|--------------|
 | **Frontend** | React.js, React Router, Tailwind CSS, JavaScript (ES6+) |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
-| **Database** | MongoDB, MongoDB Atlas, Mongoose |
-| **External Services** | OpenStreetMap / Nominatim, Wikipedia, Google Search |
+| **Database** | MongoDB, MongoDB Atlas |
+| **External Services** | OpenStreetMap , Wikipedia, Google Search |
 | **Deployment** | Vercel, Render, MongoDB Atlas |
 
 ---
